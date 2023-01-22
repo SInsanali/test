@@ -1,1 +1,3 @@
-print("hello world")
+variable = "world"
+
+print(f"hello {variable}")
